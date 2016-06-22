@@ -243,7 +243,6 @@ let update = () => {
 
   requestAnimationFrame( update );
 };
-checkboxPlay.checked = true;
 
 update();
 
