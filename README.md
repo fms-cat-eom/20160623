@@ -1,11 +1,13 @@
-# Everyday One Motion - 20160623 "Too Many Tasks"  
+# Everyday One Motion - 20160623  
+
+"Too Many Tasks"  
 
 ![](20160623.gif)  
 
 JavaScript, WebGL, Raymarcher, Pathtracer  
 
 [Everyday One Motion](http://motions.work/motion/281)  
-[Demo Page](http://fms-cat.github.io/eom_20160623/dist)  
+[Demo Page](http://fms-cat-eom.github.io/20160623/dist)  
 
 ## Too Many Tasks
 
