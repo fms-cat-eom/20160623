@@ -15,8 +15,8 @@ let saturate = ( _value ) => {
 
 // ---
 
-let width = canvas.width = 1280;
-let height = canvas.height = 720;
+let width = canvas.width = 300;
+let height = canvas.height = 300;
 
 let gl = canvas.getContext( 'webgl' );
 let glCat = new GLCat( gl );
